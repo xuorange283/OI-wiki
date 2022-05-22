@@ -1,10 +1,12 @@
-author: Ir1d, ShadowsEpic, Fomalhauthmj, siger-young, MingqiHuang, Xeonacid, hsfzLZH1, orzAtalod, NachtgeistW
+author: Ir1d, ShadowsEpic, Fomalhauthmj, siger-young, MingqiHuang, Xeonacid, hsfzLZH1, orzAtalod, NachtgeistW, xuorange283
 
 本页面将简要介绍倍增法。
 
 ## 简介
 
 倍增法（英语：binary lifting），顾名思义就是翻倍。它能够使线性的处理转化为对数级的处理，大大地优化时间复杂度。
+
+这里有一个学习链接：https://blog.csdn.net/jarjingx/article/details/8180560  [链接贡献者：ghost](https://github.com/ghost)
 
 这个方法在很多算法中均有应用，其中最常用的是 RMQ 问题和求 [LCA（最近公共祖先）](../graph/lca.md)。
 
